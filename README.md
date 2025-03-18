@@ -6,7 +6,7 @@ If you work on cool things and are looking for someone talented to join your tea
 LinkedIn
 </a>&nbsp;&middot;&nbsp;
 <a href="https://github.com/AustinBrunkhorst/AustinBrunkhorst/blob/main/resume.pdf?raw=true">Resume</a>
-
+<br>
 <a href="https://github.com/AustinBrunkhorst/AustinBrunkhorst/blob/main/resume.pdf?raw=true">
     <img align="center" src="./resume.svg" alt="Resume" />
 </a>
